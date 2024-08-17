@@ -1,6 +1,6 @@
 # dotfiles
 
-These dotfiles include a Makefile that set ups git on your local machine.
+These dotfiles include a Makefile that installs homebrew and sets up git on your local machine.
 To use, clone this repository.
 
 ```
